@@ -1,0 +1,42 @@
+C:\Users\admin\source\repos\Candidate management\Candidate management\bin\Debug\netcoreapp3.1\Candidate management.exe
+C:\Users\admin\source\repos\Candidate management\Candidate management\bin\Debug\netcoreapp3.1\Candidate management.deps.json
+C:\Users\admin\source\repos\Candidate management\Candidate management\bin\Debug\netcoreapp3.1\Candidate management.runtimeconfig.json
+C:\Users\admin\source\repos\Candidate management\Candidate management\bin\Debug\netcoreapp3.1\Candidate management.runtimeconfig.dev.json
+C:\Users\admin\source\repos\Candidate management\Candidate management\bin\Debug\netcoreapp3.1\Candidate management.dll
+C:\Users\admin\source\repos\Candidate management\Candidate management\bin\Debug\netcoreapp3.1\Candidate management.pdb
+C:\Users\admin\source\repos\Candidate management\Candidate management\obj\Debug\netcoreapp3.1\Candidate management.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Candidate management\Candidate management\obj\Debug\netcoreapp3.1\Candidate management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Candidate management\Candidate management\obj\Debug\netcoreapp3.1\Candidate management.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Candidate management\Candidate management\obj\Debug\netcoreapp3.1\Candidate management.AssemblyInfo.cs
+C:\Users\admin\source\repos\Candidate management\Candidate management\obj\Debug\netcoreapp3.1\Candidate management.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Candidate management\Candidate management\obj\Debug\netcoreapp3.1\Candidate management.dll
+C:\Users\admin\source\repos\Candidate management\Candidate management\obj\Debug\netcoreapp3.1\Candidate management.pdb
+C:\Users\admin\source\repos\Candidate management\Candidate management\obj\Debug\netcoreapp3.1\Candidate management.genruntimeconfig.cache
+D:\1_c#_code\sources\Candidate management\Candidate management\bin\Debug\netcoreapp3.1\Candidate management.exe
+D:\1_c#_code\sources\Candidate management\Candidate management\bin\Debug\netcoreapp3.1\Candidate management.deps.json
+D:\1_c#_code\sources\Candidate management\Candidate management\bin\Debug\netcoreapp3.1\Candidate management.runtimeconfig.json
+D:\1_c#_code\sources\Candidate management\Candidate management\bin\Debug\netcoreapp3.1\Candidate management.runtimeconfig.dev.json
+D:\1_c#_code\sources\Candidate management\Candidate management\bin\Debug\netcoreapp3.1\Candidate management.dll
+D:\1_c#_code\sources\Candidate management\Candidate management\bin\Debug\netcoreapp3.1\Candidate management.pdb
+D:\1_c#_code\sources\Candidate management\Candidate management\obj\Debug\netcoreapp3.1\Candidate management.csproj.AssemblyReference.cache
+D:\1_c#_code\sources\Candidate management\Candidate management\obj\Debug\netcoreapp3.1\Candidate management.GeneratedMSBuildEditorConfig.editorconfig
+D:\1_c#_code\sources\Candidate management\Candidate management\obj\Debug\netcoreapp3.1\Candidate management.AssemblyInfoInputs.cache
+D:\1_c#_code\sources\Candidate management\Candidate management\obj\Debug\netcoreapp3.1\Candidate management.AssemblyInfo.cs
+D:\1_c#_code\sources\Candidate management\Candidate management\obj\Debug\netcoreapp3.1\Candidate management.csproj.CoreCompileInputs.cache
+D:\1_c#_code\sources\Candidate management\Candidate management\obj\Debug\netcoreapp3.1\Candidate management.dll
+D:\1_c#_code\sources\Candidate management\Candidate management\obj\Debug\netcoreapp3.1\Candidate management.pdb
+D:\1_c#_code\sources\Candidate management\Candidate management\obj\Debug\netcoreapp3.1\Candidate management.genruntimeconfig.cache
+C:\Users\admin\source\repos\22. Candidate management\Candidate management\bin\Debug\netcoreapp3.1\Candidate management.exe
+C:\Users\admin\source\repos\22. Candidate management\Candidate management\bin\Debug\netcoreapp3.1\Candidate management.deps.json
+C:\Users\admin\source\repos\22. Candidate management\Candidate management\bin\Debug\netcoreapp3.1\Candidate management.runtimeconfig.json
+C:\Users\admin\source\repos\22. Candidate management\Candidate management\bin\Debug\netcoreapp3.1\Candidate management.runtimeconfig.dev.json
+C:\Users\admin\source\repos\22. Candidate management\Candidate management\bin\Debug\netcoreapp3.1\Candidate management.dll
+C:\Users\admin\source\repos\22. Candidate management\Candidate management\bin\Debug\netcoreapp3.1\Candidate management.pdb
+C:\Users\admin\source\repos\22. Candidate management\Candidate management\obj\Debug\netcoreapp3.1\Candidate management.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\22. Candidate management\Candidate management\obj\Debug\netcoreapp3.1\Candidate management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\22. Candidate management\Candidate management\obj\Debug\netcoreapp3.1\Candidate management.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\22. Candidate management\Candidate management\obj\Debug\netcoreapp3.1\Candidate management.AssemblyInfo.cs
+C:\Users\admin\source\repos\22. Candidate management\Candidate management\obj\Debug\netcoreapp3.1\Candidate management.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\22. Candidate management\Candidate management\obj\Debug\netcoreapp3.1\Candidate management.dll
+C:\Users\admin\source\repos\22. Candidate management\Candidate management\obj\Debug\netcoreapp3.1\Candidate management.pdb
+C:\Users\admin\source\repos\22. Candidate management\Candidate management\obj\Debug\netcoreapp3.1\Candidate management.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Selection sort algorithm/1.0.0": {
+        "runtime": {
+          "Selection sort algorithm.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Selection sort algorithm/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

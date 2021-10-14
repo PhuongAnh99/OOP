@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\52. manage the geographic\52. manage the geographic\bin\Debug\netcoreapp3.1\52. manage the geographic.exe
+C:\Users\admin\source\repos\52. manage the geographic\52. manage the geographic\bin\Debug\netcoreapp3.1\52. manage the geographic.deps.json
+C:\Users\admin\source\repos\52. manage the geographic\52. manage the geographic\bin\Debug\netcoreapp3.1\52. manage the geographic.runtimeconfig.json
+C:\Users\admin\source\repos\52. manage the geographic\52. manage the geographic\bin\Debug\netcoreapp3.1\52. manage the geographic.runtimeconfig.dev.json
+C:\Users\admin\source\repos\52. manage the geographic\52. manage the geographic\bin\Debug\netcoreapp3.1\52. manage the geographic.dll
+C:\Users\admin\source\repos\52. manage the geographic\52. manage the geographic\bin\Debug\netcoreapp3.1\52. manage the geographic.pdb
+C:\Users\admin\source\repos\52. manage the geographic\52. manage the geographic\obj\Debug\netcoreapp3.1\52. manage the geographic.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\52. manage the geographic\52. manage the geographic\obj\Debug\netcoreapp3.1\52. manage the geographic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\52. manage the geographic\52. manage the geographic\obj\Debug\netcoreapp3.1\52. manage the geographic.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\52. manage the geographic\52. manage the geographic\obj\Debug\netcoreapp3.1\52. manage the geographic.AssemblyInfo.cs
+C:\Users\admin\source\repos\52. manage the geographic\52. manage the geographic\obj\Debug\netcoreapp3.1\52. manage the geographic.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\52. manage the geographic\52. manage the geographic\obj\Debug\netcoreapp3.1\52. manage the geographic.dll
+C:\Users\admin\source\repos\52. manage the geographic\52. manage the geographic\obj\Debug\netcoreapp3.1\52. manage the geographic.pdb
+C:\Users\admin\source\repos\52. manage the geographic\52. manage the geographic\obj\Debug\netcoreapp3.1\52. manage the geographic.genruntimeconfig.cache

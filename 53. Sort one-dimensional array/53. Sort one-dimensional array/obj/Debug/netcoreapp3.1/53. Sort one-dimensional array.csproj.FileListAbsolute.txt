@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\53. Sort one-dimensional array\53. Sort one-dimensional array\bin\Debug\netcoreapp3.1\53. Sort one-dimensional array.exe
+C:\Users\admin\source\repos\53. Sort one-dimensional array\53. Sort one-dimensional array\bin\Debug\netcoreapp3.1\53. Sort one-dimensional array.deps.json
+C:\Users\admin\source\repos\53. Sort one-dimensional array\53. Sort one-dimensional array\bin\Debug\netcoreapp3.1\53. Sort one-dimensional array.runtimeconfig.json
+C:\Users\admin\source\repos\53. Sort one-dimensional array\53. Sort one-dimensional array\bin\Debug\netcoreapp3.1\53. Sort one-dimensional array.runtimeconfig.dev.json
+C:\Users\admin\source\repos\53. Sort one-dimensional array\53. Sort one-dimensional array\bin\Debug\netcoreapp3.1\53. Sort one-dimensional array.dll
+C:\Users\admin\source\repos\53. Sort one-dimensional array\53. Sort one-dimensional array\bin\Debug\netcoreapp3.1\53. Sort one-dimensional array.pdb
+C:\Users\admin\source\repos\53. Sort one-dimensional array\53. Sort one-dimensional array\obj\Debug\netcoreapp3.1\53. Sort one-dimensional array.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\53. Sort one-dimensional array\53. Sort one-dimensional array\obj\Debug\netcoreapp3.1\53. Sort one-dimensional array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\53. Sort one-dimensional array\53. Sort one-dimensional array\obj\Debug\netcoreapp3.1\53. Sort one-dimensional array.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\53. Sort one-dimensional array\53. Sort one-dimensional array\obj\Debug\netcoreapp3.1\53. Sort one-dimensional array.AssemblyInfo.cs
+C:\Users\admin\source\repos\53. Sort one-dimensional array\53. Sort one-dimensional array\obj\Debug\netcoreapp3.1\53. Sort one-dimensional array.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\53. Sort one-dimensional array\53. Sort one-dimensional array\obj\Debug\netcoreapp3.1\53. Sort one-dimensional array.dll
+C:\Users\admin\source\repos\53. Sort one-dimensional array\53. Sort one-dimensional array\obj\Debug\netcoreapp3.1\53. Sort one-dimensional array.pdb
+C:\Users\admin\source\repos\53. Sort one-dimensional array\53. Sort one-dimensional array\obj\Debug\netcoreapp3.1\53. Sort one-dimensional array.genruntimeconfig.cache

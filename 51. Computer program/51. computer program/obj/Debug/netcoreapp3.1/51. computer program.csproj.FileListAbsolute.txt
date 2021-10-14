@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\51. computer program\51. computer program\bin\Debug\netcoreapp3.1\51. computer program.exe
+C:\Users\admin\source\repos\51. computer program\51. computer program\bin\Debug\netcoreapp3.1\51. computer program.deps.json
+C:\Users\admin\source\repos\51. computer program\51. computer program\bin\Debug\netcoreapp3.1\51. computer program.runtimeconfig.json
+C:\Users\admin\source\repos\51. computer program\51. computer program\bin\Debug\netcoreapp3.1\51. computer program.runtimeconfig.dev.json
+C:\Users\admin\source\repos\51. computer program\51. computer program\bin\Debug\netcoreapp3.1\51. computer program.dll
+C:\Users\admin\source\repos\51. computer program\51. computer program\bin\Debug\netcoreapp3.1\51. computer program.pdb
+C:\Users\admin\source\repos\51. computer program\51. computer program\obj\Debug\netcoreapp3.1\51. computer program.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\51. computer program\51. computer program\obj\Debug\netcoreapp3.1\51. computer program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\51. computer program\51. computer program\obj\Debug\netcoreapp3.1\51. computer program.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\51. computer program\51. computer program\obj\Debug\netcoreapp3.1\51. computer program.AssemblyInfo.cs
+C:\Users\admin\source\repos\51. computer program\51. computer program\obj\Debug\netcoreapp3.1\51. computer program.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\51. computer program\51. computer program\obj\Debug\netcoreapp3.1\51. computer program.dll
+C:\Users\admin\source\repos\51. computer program\51. computer program\obj\Debug\netcoreapp3.1\51. computer program.pdb
+C:\Users\admin\source\repos\51. computer program\51. computer program\obj\Debug\netcoreapp3.1\51. computer program.genruntimeconfig.cache

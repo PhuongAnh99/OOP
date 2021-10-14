@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Candidate management", "Candidate management\Candidate management.csproj", "{84CAD48A-88D4-41B6-ACF8-C34396CAC32E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84CAD48A-88D4-41B6-ACF8-C34396CAC32E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84CAD48A-88D4-41B6-ACF8-C34396CAC32E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84CAD48A-88D4-41B6-ACF8-C34396CAC32E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84CAD48A-88D4-41B6-ACF8-C34396CAC32E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4915A18A-1435-440C-88DC-95BE98D9E31E}
+	EndGlobalSection
+EndGlobal

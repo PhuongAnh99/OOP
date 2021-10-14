@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\Binary search algorithm\Binary search algorithm\bin\Debug\netcoreapp3.1\Binary search algorithm.exe
+C:\Users\admin\source\repos\Binary search algorithm\Binary search algorithm\bin\Debug\netcoreapp3.1\Binary search algorithm.deps.json
+C:\Users\admin\source\repos\Binary search algorithm\Binary search algorithm\bin\Debug\netcoreapp3.1\Binary search algorithm.runtimeconfig.json
+C:\Users\admin\source\repos\Binary search algorithm\Binary search algorithm\bin\Debug\netcoreapp3.1\Binary search algorithm.runtimeconfig.dev.json
+C:\Users\admin\source\repos\Binary search algorithm\Binary search algorithm\bin\Debug\netcoreapp3.1\Binary search algorithm.dll
+C:\Users\admin\source\repos\Binary search algorithm\Binary search algorithm\bin\Debug\netcoreapp3.1\Binary search algorithm.pdb
+C:\Users\admin\source\repos\Binary search algorithm\Binary search algorithm\obj\Debug\netcoreapp3.1\Binary search algorithm.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Binary search algorithm\Binary search algorithm\obj\Debug\netcoreapp3.1\Binary search algorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Binary search algorithm\Binary search algorithm\obj\Debug\netcoreapp3.1\Binary search algorithm.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Binary search algorithm\Binary search algorithm\obj\Debug\netcoreapp3.1\Binary search algorithm.AssemblyInfo.cs
+C:\Users\admin\source\repos\Binary search algorithm\Binary search algorithm\obj\Debug\netcoreapp3.1\Binary search algorithm.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Binary search algorithm\Binary search algorithm\obj\Debug\netcoreapp3.1\Binary search algorithm.dll
+C:\Users\admin\source\repos\Binary search algorithm\Binary search algorithm\obj\Debug\netcoreapp3.1\Binary search algorithm.pdb
+C:\Users\admin\source\repos\Binary search algorithm\Binary search algorithm\obj\Debug\netcoreapp3.1\Binary search algorithm.genruntimeconfig.cache

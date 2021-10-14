@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\21. Manage students\21. Manage students\bin\Debug\netcoreapp3.1\21. Manage students..exe
+C:\Users\admin\source\repos\21. Manage students\21. Manage students\bin\Debug\netcoreapp3.1\21. Manage students..deps.json
+C:\Users\admin\source\repos\21. Manage students\21. Manage students\bin\Debug\netcoreapp3.1\21. Manage students..runtimeconfig.json
+C:\Users\admin\source\repos\21. Manage students\21. Manage students\bin\Debug\netcoreapp3.1\21. Manage students..runtimeconfig.dev.json
+C:\Users\admin\source\repos\21. Manage students\21. Manage students\bin\Debug\netcoreapp3.1\21. Manage students..dll
+C:\Users\admin\source\repos\21. Manage students\21. Manage students\bin\Debug\netcoreapp3.1\21. Manage students..pdb
+C:\Users\admin\source\repos\21. Manage students\21. Manage students\obj\Debug\netcoreapp3.1\21. Manage students..csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\21. Manage students\21. Manage students\obj\Debug\netcoreapp3.1\21. Manage students..GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\21. Manage students\21. Manage students\obj\Debug\netcoreapp3.1\21. Manage students..AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\21. Manage students\21. Manage students\obj\Debug\netcoreapp3.1\21. Manage students..AssemblyInfo.cs
+C:\Users\admin\source\repos\21. Manage students\21. Manage students\obj\Debug\netcoreapp3.1\21. Manage students..csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\21. Manage students\21. Manage students\obj\Debug\netcoreapp3.1\21. Manage students..dll
+C:\Users\admin\source\repos\21. Manage students\21. Manage students\obj\Debug\netcoreapp3.1\21. Manage students..pdb
+C:\Users\admin\source\repos\21. Manage students\21. Manage students\obj\Debug\netcoreapp3.1\21. Manage students..genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\10. Linear search\10. Linear search\bin\Debug\netcoreapp3.1\10. Linear search.exe
+C:\Users\admin\source\repos\10. Linear search\10. Linear search\bin\Debug\netcoreapp3.1\10. Linear search.deps.json
+C:\Users\admin\source\repos\10. Linear search\10. Linear search\bin\Debug\netcoreapp3.1\10. Linear search.runtimeconfig.json
+C:\Users\admin\source\repos\10. Linear search\10. Linear search\bin\Debug\netcoreapp3.1\10. Linear search.runtimeconfig.dev.json
+C:\Users\admin\source\repos\10. Linear search\10. Linear search\bin\Debug\netcoreapp3.1\10. Linear search.dll
+C:\Users\admin\source\repos\10. Linear search\10. Linear search\bin\Debug\netcoreapp3.1\10. Linear search.pdb
+C:\Users\admin\source\repos\10. Linear search\10. Linear search\obj\Debug\netcoreapp3.1\10. Linear search.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\10. Linear search\10. Linear search\obj\Debug\netcoreapp3.1\10. Linear search.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\10. Linear search\10. Linear search\obj\Debug\netcoreapp3.1\10. Linear search.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\10. Linear search\10. Linear search\obj\Debug\netcoreapp3.1\10. Linear search.AssemblyInfo.cs
+C:\Users\admin\source\repos\10. Linear search\10. Linear search\obj\Debug\netcoreapp3.1\10. Linear search.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\10. Linear search\10. Linear search\obj\Debug\netcoreapp3.1\10. Linear search.dll
+C:\Users\admin\source\repos\10. Linear search\10. Linear search\obj\Debug\netcoreapp3.1\10. Linear search.pdb
+C:\Users\admin\source\repos\10. Linear search\10. Linear search\obj\Debug\netcoreapp3.1\10. Linear search.genruntimeconfig.cache

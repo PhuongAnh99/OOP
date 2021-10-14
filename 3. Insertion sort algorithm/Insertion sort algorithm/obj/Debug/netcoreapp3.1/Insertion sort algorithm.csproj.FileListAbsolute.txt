@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\Insertion sort algorithm\Insertion sort algorithm\bin\Debug\netcoreapp3.1\Insertion sort algorithm.exe
+C:\Users\admin\source\repos\Insertion sort algorithm\Insertion sort algorithm\bin\Debug\netcoreapp3.1\Insertion sort algorithm.deps.json
+C:\Users\admin\source\repos\Insertion sort algorithm\Insertion sort algorithm\bin\Debug\netcoreapp3.1\Insertion sort algorithm.runtimeconfig.json
+C:\Users\admin\source\repos\Insertion sort algorithm\Insertion sort algorithm\bin\Debug\netcoreapp3.1\Insertion sort algorithm.runtimeconfig.dev.json
+C:\Users\admin\source\repos\Insertion sort algorithm\Insertion sort algorithm\bin\Debug\netcoreapp3.1\Insertion sort algorithm.dll
+C:\Users\admin\source\repos\Insertion sort algorithm\Insertion sort algorithm\bin\Debug\netcoreapp3.1\Insertion sort algorithm.pdb
+C:\Users\admin\source\repos\Insertion sort algorithm\Insertion sort algorithm\obj\Debug\netcoreapp3.1\Insertion sort algorithm.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Insertion sort algorithm\Insertion sort algorithm\obj\Debug\netcoreapp3.1\Insertion sort algorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Insertion sort algorithm\Insertion sort algorithm\obj\Debug\netcoreapp3.1\Insertion sort algorithm.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Insertion sort algorithm\Insertion sort algorithm\obj\Debug\netcoreapp3.1\Insertion sort algorithm.AssemblyInfo.cs
+C:\Users\admin\source\repos\Insertion sort algorithm\Insertion sort algorithm\obj\Debug\netcoreapp3.1\Insertion sort algorithm.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Insertion sort algorithm\Insertion sort algorithm\obj\Debug\netcoreapp3.1\Insertion sort algorithm.dll
+C:\Users\admin\source\repos\Insertion sort algorithm\Insertion sort algorithm\obj\Debug\netcoreapp3.1\Insertion sort algorithm.pdb
+C:\Users\admin\source\repos\Insertion sort algorithm\Insertion sort algorithm\obj\Debug\netcoreapp3.1\Insertion sort algorithm.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\5. Merge sort algorithm\5. Merge sort algorithm\bin\Debug\netcoreapp3.1\5. Merge sort algorithm.exe
+C:\Users\admin\source\repos\5. Merge sort algorithm\5. Merge sort algorithm\bin\Debug\netcoreapp3.1\5. Merge sort algorithm.deps.json
+C:\Users\admin\source\repos\5. Merge sort algorithm\5. Merge sort algorithm\bin\Debug\netcoreapp3.1\5. Merge sort algorithm.runtimeconfig.json
+C:\Users\admin\source\repos\5. Merge sort algorithm\5. Merge sort algorithm\bin\Debug\netcoreapp3.1\5. Merge sort algorithm.runtimeconfig.dev.json
+C:\Users\admin\source\repos\5. Merge sort algorithm\5. Merge sort algorithm\bin\Debug\netcoreapp3.1\5. Merge sort algorithm.dll
+C:\Users\admin\source\repos\5. Merge sort algorithm\5. Merge sort algorithm\bin\Debug\netcoreapp3.1\5. Merge sort algorithm.pdb
+C:\Users\admin\source\repos\5. Merge sort algorithm\5. Merge sort algorithm\obj\Debug\netcoreapp3.1\5. Merge sort algorithm.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\5. Merge sort algorithm\5. Merge sort algorithm\obj\Debug\netcoreapp3.1\5. Merge sort algorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\5. Merge sort algorithm\5. Merge sort algorithm\obj\Debug\netcoreapp3.1\5. Merge sort algorithm.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\5. Merge sort algorithm\5. Merge sort algorithm\obj\Debug\netcoreapp3.1\5. Merge sort algorithm.AssemblyInfo.cs
+C:\Users\admin\source\repos\5. Merge sort algorithm\5. Merge sort algorithm\obj\Debug\netcoreapp3.1\5. Merge sort algorithm.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\5. Merge sort algorithm\5. Merge sort algorithm\obj\Debug\netcoreapp3.1\5. Merge sort algorithm.dll
+C:\Users\admin\source\repos\5. Merge sort algorithm\5. Merge sort algorithm\obj\Debug\netcoreapp3.1\5. Merge sort algorithm.pdb
+C:\Users\admin\source\repos\5. Merge sort algorithm\5. Merge sort algorithm\obj\Debug\netcoreapp3.1\5. Merge sort algorithm.genruntimeconfig.cache

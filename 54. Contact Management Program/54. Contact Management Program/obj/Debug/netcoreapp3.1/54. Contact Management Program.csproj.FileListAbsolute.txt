@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\54. Contact Management Program\54. Contact Management Program\bin\Debug\netcoreapp3.1\54. Contact Management Program.exe
+C:\Users\admin\source\repos\54. Contact Management Program\54. Contact Management Program\bin\Debug\netcoreapp3.1\54. Contact Management Program.deps.json
+C:\Users\admin\source\repos\54. Contact Management Program\54. Contact Management Program\bin\Debug\netcoreapp3.1\54. Contact Management Program.runtimeconfig.json
+C:\Users\admin\source\repos\54. Contact Management Program\54. Contact Management Program\bin\Debug\netcoreapp3.1\54. Contact Management Program.runtimeconfig.dev.json
+C:\Users\admin\source\repos\54. Contact Management Program\54. Contact Management Program\bin\Debug\netcoreapp3.1\54. Contact Management Program.dll
+C:\Users\admin\source\repos\54. Contact Management Program\54. Contact Management Program\bin\Debug\netcoreapp3.1\54. Contact Management Program.pdb
+C:\Users\admin\source\repos\54. Contact Management Program\54. Contact Management Program\obj\Debug\netcoreapp3.1\54. Contact Management Program.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\54. Contact Management Program\54. Contact Management Program\obj\Debug\netcoreapp3.1\54. Contact Management Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\54. Contact Management Program\54. Contact Management Program\obj\Debug\netcoreapp3.1\54. Contact Management Program.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\54. Contact Management Program\54. Contact Management Program\obj\Debug\netcoreapp3.1\54. Contact Management Program.AssemblyInfo.cs
+C:\Users\admin\source\repos\54. Contact Management Program\54. Contact Management Program\obj\Debug\netcoreapp3.1\54. Contact Management Program.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\54. Contact Management Program\54. Contact Management Program\obj\Debug\netcoreapp3.1\54. Contact Management Program.dll
+C:\Users\admin\source\repos\54. Contact Management Program\54. Contact Management Program\obj\Debug\netcoreapp3.1\54. Contact Management Program.pdb
+C:\Users\admin\source\repos\54. Contact Management Program\54. Contact Management Program\obj\Debug\netcoreapp3.1\54. Contact Management Program.genruntimeconfig.cache

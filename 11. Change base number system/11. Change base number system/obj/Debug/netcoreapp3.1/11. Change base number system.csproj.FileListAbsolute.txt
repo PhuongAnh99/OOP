@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\11. Change base number system\11. Change base number system\bin\Debug\netcoreapp3.1\11. Change base number system.exe
+C:\Users\admin\source\repos\11. Change base number system\11. Change base number system\bin\Debug\netcoreapp3.1\11. Change base number system.deps.json
+C:\Users\admin\source\repos\11. Change base number system\11. Change base number system\bin\Debug\netcoreapp3.1\11. Change base number system.runtimeconfig.json
+C:\Users\admin\source\repos\11. Change base number system\11. Change base number system\bin\Debug\netcoreapp3.1\11. Change base number system.runtimeconfig.dev.json
+C:\Users\admin\source\repos\11. Change base number system\11. Change base number system\bin\Debug\netcoreapp3.1\11. Change base number system.dll
+C:\Users\admin\source\repos\11. Change base number system\11. Change base number system\bin\Debug\netcoreapp3.1\11. Change base number system.pdb
+C:\Users\admin\source\repos\11. Change base number system\11. Change base number system\obj\Debug\netcoreapp3.1\11. Change base number system.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\11. Change base number system\11. Change base number system\obj\Debug\netcoreapp3.1\11. Change base number system.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\11. Change base number system\11. Change base number system\obj\Debug\netcoreapp3.1\11. Change base number system.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\11. Change base number system\11. Change base number system\obj\Debug\netcoreapp3.1\11. Change base number system.AssemblyInfo.cs
+C:\Users\admin\source\repos\11. Change base number system\11. Change base number system\obj\Debug\netcoreapp3.1\11. Change base number system.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\11. Change base number system\11. Change base number system\obj\Debug\netcoreapp3.1\11. Change base number system.dll
+C:\Users\admin\source\repos\11. Change base number system\11. Change base number system\obj\Debug\netcoreapp3.1\11. Change base number system.pdb
+C:\Users\admin\source\repos\11. Change base number system\11. Change base number system\obj\Debug\netcoreapp3.1\11. Change base number system.genruntimeconfig.cache

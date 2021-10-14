@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "55. Doctor management program/1.0.0": {
+        "runtime": {
+          "55. Doctor management program.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "55. Doctor management program/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

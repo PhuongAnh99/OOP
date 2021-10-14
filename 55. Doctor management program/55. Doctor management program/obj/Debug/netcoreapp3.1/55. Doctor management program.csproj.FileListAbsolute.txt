@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\55. Doctor management program\55. Doctor management program\bin\Debug\netcoreapp3.1\55. Doctor management program.exe
+C:\Users\admin\source\repos\55. Doctor management program\55. Doctor management program\bin\Debug\netcoreapp3.1\55. Doctor management program.deps.json
+C:\Users\admin\source\repos\55. Doctor management program\55. Doctor management program\bin\Debug\netcoreapp3.1\55. Doctor management program.runtimeconfig.json
+C:\Users\admin\source\repos\55. Doctor management program\55. Doctor management program\bin\Debug\netcoreapp3.1\55. Doctor management program.runtimeconfig.dev.json
+C:\Users\admin\source\repos\55. Doctor management program\55. Doctor management program\bin\Debug\netcoreapp3.1\55. Doctor management program.dll
+C:\Users\admin\source\repos\55. Doctor management program\55. Doctor management program\bin\Debug\netcoreapp3.1\55. Doctor management program.pdb
+C:\Users\admin\source\repos\55. Doctor management program\55. Doctor management program\obj\Debug\netcoreapp3.1\55. Doctor management program.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\55. Doctor management program\55. Doctor management program\obj\Debug\netcoreapp3.1\55. Doctor management program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\55. Doctor management program\55. Doctor management program\obj\Debug\netcoreapp3.1\55. Doctor management program.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\55. Doctor management program\55. Doctor management program\obj\Debug\netcoreapp3.1\55. Doctor management program.AssemblyInfo.cs
+C:\Users\admin\source\repos\55. Doctor management program\55. Doctor management program\obj\Debug\netcoreapp3.1\55. Doctor management program.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\55. Doctor management program\55. Doctor management program\obj\Debug\netcoreapp3.1\55. Doctor management program.dll
+C:\Users\admin\source\repos\55. Doctor management program\55. Doctor management program\obj\Debug\netcoreapp3.1\55. Doctor management program.pdb
+C:\Users\admin\source\repos\55. Doctor management program\55. Doctor management program\obj\Debug\netcoreapp3.1\55. Doctor management program.genruntimeconfig.cache

@@ -1,0 +1,28 @@
+C:\Users\admin\source\repos\Bubble sort algorithm\Bubble sort algorithm\bin\Debug\netcoreapp3.1\Bubble sort algorithm.exe
+C:\Users\admin\source\repos\Bubble sort algorithm\Bubble sort algorithm\bin\Debug\netcoreapp3.1\Bubble sort algorithm.deps.json
+C:\Users\admin\source\repos\Bubble sort algorithm\Bubble sort algorithm\bin\Debug\netcoreapp3.1\Bubble sort algorithm.runtimeconfig.json
+C:\Users\admin\source\repos\Bubble sort algorithm\Bubble sort algorithm\bin\Debug\netcoreapp3.1\Bubble sort algorithm.runtimeconfig.dev.json
+C:\Users\admin\source\repos\Bubble sort algorithm\Bubble sort algorithm\bin\Debug\netcoreapp3.1\Bubble sort algorithm.dll
+C:\Users\admin\source\repos\Bubble sort algorithm\Bubble sort algorithm\bin\Debug\netcoreapp3.1\Bubble sort algorithm.pdb
+C:\Users\admin\source\repos\Bubble sort algorithm\Bubble sort algorithm\obj\Debug\netcoreapp3.1\Bubble sort algorithm.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Bubble sort algorithm\Bubble sort algorithm\obj\Debug\netcoreapp3.1\Bubble sort algorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Bubble sort algorithm\Bubble sort algorithm\obj\Debug\netcoreapp3.1\Bubble sort algorithm.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Bubble sort algorithm\Bubble sort algorithm\obj\Debug\netcoreapp3.1\Bubble sort algorithm.AssemblyInfo.cs
+C:\Users\admin\source\repos\Bubble sort algorithm\Bubble sort algorithm\obj\Debug\netcoreapp3.1\Bubble sort algorithm.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Bubble sort algorithm\Bubble sort algorithm\obj\Debug\netcoreapp3.1\Bubble sort algorithm.dll
+C:\Users\admin\source\repos\Bubble sort algorithm\Bubble sort algorithm\obj\Debug\netcoreapp3.1\Bubble sort algorithm.pdb
+C:\Users\admin\source\repos\Bubble sort algorithm\Bubble sort algorithm\obj\Debug\netcoreapp3.1\Bubble sort algorithm.genruntimeconfig.cache
+C:\Users\admin\source\repos\1. Bubble sort algorithm\Bubble sort algorithm\bin\Debug\netcoreapp3.1\Bubble sort algorithm.exe
+C:\Users\admin\source\repos\1. Bubble sort algorithm\Bubble sort algorithm\bin\Debug\netcoreapp3.1\Bubble sort algorithm.deps.json
+C:\Users\admin\source\repos\1. Bubble sort algorithm\Bubble sort algorithm\bin\Debug\netcoreapp3.1\Bubble sort algorithm.runtimeconfig.json
+C:\Users\admin\source\repos\1. Bubble sort algorithm\Bubble sort algorithm\bin\Debug\netcoreapp3.1\Bubble sort algorithm.runtimeconfig.dev.json
+C:\Users\admin\source\repos\1. Bubble sort algorithm\Bubble sort algorithm\bin\Debug\netcoreapp3.1\Bubble sort algorithm.dll
+C:\Users\admin\source\repos\1. Bubble sort algorithm\Bubble sort algorithm\bin\Debug\netcoreapp3.1\Bubble sort algorithm.pdb
+C:\Users\admin\source\repos\1. Bubble sort algorithm\Bubble sort algorithm\obj\Debug\netcoreapp3.1\Bubble sort algorithm.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\1. Bubble sort algorithm\Bubble sort algorithm\obj\Debug\netcoreapp3.1\Bubble sort algorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\1. Bubble sort algorithm\Bubble sort algorithm\obj\Debug\netcoreapp3.1\Bubble sort algorithm.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\1. Bubble sort algorithm\Bubble sort algorithm\obj\Debug\netcoreapp3.1\Bubble sort algorithm.AssemblyInfo.cs
+C:\Users\admin\source\repos\1. Bubble sort algorithm\Bubble sort algorithm\obj\Debug\netcoreapp3.1\Bubble sort algorithm.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\1. Bubble sort algorithm\Bubble sort algorithm\obj\Debug\netcoreapp3.1\Bubble sort algorithm.dll
+C:\Users\admin\source\repos\1. Bubble sort algorithm\Bubble sort algorithm\obj\Debug\netcoreapp3.1\Bubble sort algorithm.pdb
+C:\Users\admin\source\repos\1. Bubble sort algorithm\Bubble sort algorithm\obj\Debug\netcoreapp3.1\Bubble sort algorithm.genruntimeconfig.cache
